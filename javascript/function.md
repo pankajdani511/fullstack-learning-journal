@@ -525,7 +525,7 @@ Converts a value to a string.
 - `return` sends data back to the caller.
 - Arrow functions provide concise syntax.
 - Callback and higher-order functions are widely used in modern JavaScript.
-- Understanding functions is essential before learning asynchronous JavaScript, DOM manipulation.
+- Understanding functions is essential before learning asynchronous JavaScript,, DOM manipulation.
 
 ---
 
